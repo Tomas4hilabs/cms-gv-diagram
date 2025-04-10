@@ -14,10 +14,10 @@
           <mxGeometry x="180" y="386.28571428571433" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CweIAEKfsdeoZPZ042ms-18" value="" style="group" vertex="1" connectable="0" parent="CweIAEKfsdeoZPZ042ms-26">
-          <mxGeometry x="110" y="85.18095238095238" width="80" height="92.11428571428571" as="geometry" />
+          <mxGeometry x="110" y="85.18095238095238" width="105" height="92.4" as="geometry" />
         </mxCell>
-        <mxCell id="CweIAEKfsdeoZPZ042ms-11" value="Get Rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=1;" vertex="1" parent="CweIAEKfsdeoZPZ042ms-18">
-          <mxGeometry y="62.400000000000006" width="80" height="30" as="geometry" />
+        <mxCell id="CweIAEKfsdeoZPZ042ms-11" value="Get Business Rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=1;" vertex="1" parent="CweIAEKfsdeoZPZ042ms-18">
+          <mxGeometry x="-25" y="62.400000000000006" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CweIAEKfsdeoZPZ042ms-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="CweIAEKfsdeoZPZ042ms-18">
           <mxGeometry x="10" width="60" height="62.400000000000006" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry y="62.400000000000006" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CweIAEKfsdeoZPZ042ms-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="190" width="140" height="80" as="geometry" />
+          <mxGeometry x="40" y="190" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CweIAEKfsdeoZPZ042ms-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.domain_and_website;" vertex="1" parent="CweIAEKfsdeoZPZ042ms-3">
           <mxGeometry x="44.349999999999994" width="51.3" height="41.4" as="geometry" />
