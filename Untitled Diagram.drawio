@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1138" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CweIAEKfsdeoZPZ042ms-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="24" width="270" height="416" as="geometry" />
+          <mxGeometry x="520" y="24" width="280" height="416.28571428571433" as="geometry" />
         </mxCell>
         <mxCell id="CweIAEKfsdeoZPZ042ms-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CweIAEKfsdeoZPZ042ms-26">
           <mxGeometry x="30" width="240" height="386.28571428571433" as="geometry" />
         </mxCell>
-        <mxCell id="CweIAEKfsdeoZPZ042ms-25" value="Step Functions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CweIAEKfsdeoZPZ042ms-26">
+        <mxCell id="CweIAEKfsdeoZPZ042ms-25" value="Severless API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CweIAEKfsdeoZPZ042ms-26">
           <mxGeometry x="180" y="386.28571428571433" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CweIAEKfsdeoZPZ042ms-18" value="" style="group" vertex="1" connectable="0" parent="CweIAEKfsdeoZPZ042ms-26">
@@ -47,13 +47,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CweIAEKfsdeoZPZ042ms-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="960" y="182" width="70" height="104" as="geometry" />
+          <mxGeometry x="960" y="182" width="100" height="104" as="geometry" />
         </mxCell>
         <mxCell id="CweIAEKfsdeoZPZ042ms-21" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="CweIAEKfsdeoZPZ042ms-23">
           <mxGeometry x="5" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CweIAEKfsdeoZPZ042ms-22" value="Rules DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CweIAEKfsdeoZPZ042ms-23">
-          <mxGeometry y="74" width="70" height="30" as="geometry" />
+        <mxCell id="CweIAEKfsdeoZPZ042ms-22" value="Business Rules DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CweIAEKfsdeoZPZ042ms-23">
+          <mxGeometry x="-30" y="74" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CweIAEKfsdeoZPZ042ms-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CweIAEKfsdeoZPZ042ms-24" target="CweIAEKfsdeoZPZ042ms-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
